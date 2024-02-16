@@ -34,7 +34,7 @@
 
  ## 📚 Meu Portfólio, desenvolvido em HTML - CSS - JavaScript. 
 
- [Click no Link](https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/)
+ [Click no Link] (https://danieldsr89.github.io/portifolio-apresentacao-website/)
  
 ## 💻 HARD SKILLS  
 
