@@ -6,7 +6,7 @@
 </div>
     <div>   
         <p>
-        Olá comunidade!!! Me chamo Daniel. Muito obrigado pela visita, é uma prazer te receber aqui!!! 
+        Olá comunidade!!! Me chamo Daniel. Muito obrigado pela visita, é um prazer te receber aqui!!! 
        </p>     
     </div> 
  
