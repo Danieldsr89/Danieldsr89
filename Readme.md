@@ -6,7 +6,7 @@
 </div>
     <div>   
         <p>
-        :wave: Olá comunidade!!! Me chamo Daniel. Muito obrigado pela visita, é um prazer te receber aqui!!! 
+        :wave: Olá ! Me chamo Daniel e sou Desenvolvedor e Graduado em Ciência da Computação.
        </p>     
     </div> 
  
