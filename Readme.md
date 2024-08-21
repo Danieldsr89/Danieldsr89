@@ -1,6 +1,4 @@
-<h1>  <img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="800" heigth="400"> </h1>
-<br> </br>
-</hr>
+<h1>  <img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="800" heigth="400">  <br> </hr> </h1>
 
 # Daniel Rodrigues   
 
