@@ -4,7 +4,9 @@
 <div>
     <h2>Bem vindo ao meu perfil 😁 ></h2>
 </div>
-<div> img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="280" </div>
+<div
+     img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="280" > 
+</div>
     <div>   
         <p>
         :wave: Olá ! Me chamo Daniel e sou Desenvolvedor Front end e Graduado em Ciência da Computação.
