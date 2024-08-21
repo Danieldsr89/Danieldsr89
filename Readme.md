@@ -2,7 +2,7 @@
 # Daniel Rodrigues   
 
 <div>
-    <h2>Bem vindo ao meu perfil 😁 ></h2>
+    <h2 Bem vindo ao meu perfil 😁 ></h2>
 </div>
 
 <div> <h1  img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="280" > </h1>
