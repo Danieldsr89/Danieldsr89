@@ -30,11 +30,11 @@
 
 - Bacharel em Ciências da computação (2018) [UNIB](https://www.ibirapuera.br/)
 
-- Cursando  [Santander Bootcamp 2023 - Fullstack Java+Angular, Dio 2023.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
+- Curso  [Santander Bootcamp 2023 - Fullstack Java+Angular, Dio 2023.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
 
-
- # 📚 Este portfólio foi criado utilizando as tecnologias HTML, CSS e JavaScript, com foco em design responsivo e boa experiência do usuário.
-
+<h3>
+ ## 📚 Este portfólio foi criado utilizando as tecnologias HTML, CSS e JavaScript, com foco em design responsivo e boa experiência do usuário.
+</h3>
 
  [Meu Portfólio](https://danieldsr89.github.io/portfolio-apresentacao/)
  
