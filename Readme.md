@@ -8,7 +8,7 @@
 
 <div>   
         <p>
-        :wave: Olá ! Me chamo Daniel e sou Desenvolvedor Front end e Graduado em Ciência da Computação.
+        :wave: "Olá! Me chamo Daniel, sou desenvolvedor front-end e graduado em Ciência da Computação."
        </p>     
 </div> 
 
