@@ -33,10 +33,10 @@
 - Cursando  [Santander Bootcamp 2023 - Fullstack Java+Angular, Dio 2023.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
 
 
- ## 📚 Este portfólio foi criado utilizando as tecnologias HTML, CSS e JavaScript, com foco em design responsivo e boa experiência do usuário.
+ # 📚 Este portfólio foi criado utilizando as tecnologias HTML, CSS e JavaScript, com foco em design responsivo e boa experiência do usuário.
 
 
- [Click no Link](https://danieldsr89.github.io/portfolio-apresentacao/)
+ [Meu Portfólio](https://danieldsr89.github.io/portfolio-apresentacao/)
  
 ## 💻 HARD SKILLS  
 
