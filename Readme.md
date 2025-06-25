@@ -2,10 +2,6 @@
 
 # Daniel dos Santos Rodrigues   
 
-<div>
-    <h2> Bem vindo ao meu perfil 😁 </h2>
-</div>
-
 <div>   
  <p>
    . :wave: Olá! Me chamo Daniel, sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
