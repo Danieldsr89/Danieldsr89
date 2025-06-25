@@ -22,8 +22,8 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/danieldos_sr/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:danieldos.sr@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-dos-santos-rodrigues-1b558379/)
-  [![Static Badge](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Danieldsr89)  
- </div> 
+ 
+</div>
 
 ##
  👨🏼‍🎓 Formação
