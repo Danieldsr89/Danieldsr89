@@ -1,4 +1,4 @@
-<h1>  <img align='right' src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="250" heigth="125">  <br> </hr> </h1>
+<h1>  <img align='right' src="" width="250" heigth="125">  <br> </hr> </h1>
 
 # Daniel dos Santos Rodrigues   
 
