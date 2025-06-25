@@ -8,7 +8,9 @@
 
 <div>   
         <p>
-        :wave: "Olá! Me chamo Daniel, sou desenvolvedor front-end e graduado em Ciência da Computação."
+       . :wave: "Olá! Me chamo Daniel, sou Desenvolvedor Front-end e graduado em Ciência da Computação."
+    . :pushpin: "Meu objetivo é atuar como desenvolvedor Fullstack"
+    . :memo: "Principal habilidade Python"
        </p>     
 </div> 
 
