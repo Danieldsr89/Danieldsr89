@@ -4,9 +4,9 @@
 
 <div>   
  <p>
-   - :wave: Olá! Me chamo Daniel, sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
-    - :pushpin: Meu objetivo é atuar como desenvolvedor Fullstack</br></br>
-    - :memo: Principal habilidade Python
+   -   :wave: Olá! Me chamo Daniel, sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
+    -  :pushpin: Meu objetivo é atuar como desenvolvedor Fullstack</br></br>
+    -  :memo: Principal habilidade Python
  </p>     
 </div> 
 
