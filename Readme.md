@@ -4,7 +4,7 @@
 
 <div>   
  <p>
-    -   Eu sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
+    -   Eu sou Desenvolvedor Web e graduado em Ciência da Computação</br></br>
     -  :pushpin: Meu objetivo é atuar como Desenvolvedor Fullstack</br></br>
     -  :memo: Principal habilidade Python
  </p>     
