@@ -1,5 +1,3 @@
-<h1>  <img align='right' src="" width="250" heigth="125">  <br> </hr> </h1>
-
 # :wave: Olá, eu sou o  Daniel   
 
 <div>   
@@ -8,8 +6,7 @@
     -  :pushpin: Meu objetivo é atuar como Desenvolvedor Fullstack</br></br>
     -  :memo: Principal habilidade Python
  </p>     
-</div> 
-
+ 
 ##
 <div>
     <h3>📱 Conecte-se Comigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">   </h3>
