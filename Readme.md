@@ -1,10 +1,10 @@
 <h1>  <img align='right' src="" width="250" heigth="125">  <br> </hr> </h1>
 
-# Daniel dos Santos Rodrigues   
+# :wave: Olá, eu sou o  Daniel   
 
 <div>   
  <p>
-   -   :wave: Olá! Me chamo Daniel, sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
+    -   Eu sou Desenvolvedor Front-end e graduado em Ciência da Computação</br></br>
     -  :pushpin: Meu objetivo é atuar como Desenvolvedor Fullstack</br></br>
     -  :memo: Principal habilidade Python
  </p>     
