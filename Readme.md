@@ -1,6 +1,5 @@
 #                           :wave: Olá, eu sou o  Daniel   
-###                                  Danieldsr89
-
+                                
 <div>   
  <p>
     -  :computer: Eu sou Desenvolvedor Web e graduado em Ciência da Computação</br></br>
